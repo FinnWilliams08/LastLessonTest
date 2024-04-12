@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/FPS-Package/FPS-Teaching-main/FPS-Teaching/Assets/Scenes/Main Menu.unity
+    guid: a62487c8d261f5e4e961fc2dec787944
+  - enabled: 1
+    path: Assets/FPS-Package/FPS-Teaching-main/FPS-Teaching/Assets/Scenes/MainMenu.unity
+    guid: c1176d914fdeddf4f97c5427fdcba39c
+  - enabled: 1
+    path: Assets/FPS-Package/FPS-Teaching-main/FPS-Teaching/Assets/Scenes/EnemyExample.unity
+    guid: 99ce34e920a94f2498e80d9bde115235
+  - enabled: 1
+    path: Assets/FPS-Package/FPS-Teaching-main/FPS-Teaching/Assets/Scenes/Lvl2.unity
+    guid: cf9ade6fee8ac254ea7f278b753a4416
+  - enabled: 0
+    path: Assets/FPS-Package/FPS-Teaching-main/FPS-Teaching/Assets/Scenes/Lvl3.unity
+    guid: 2a2c9fb9d50110f4cbc169175ac2fa03
+  - enabled: 1
+    path: Assets/FPS-Package/FPS-Teaching-main/FPS-Teaching/Assets/Scenes/WinScreen.unity
+    guid: fe1d6a226ba29dd48a235606f78cfa49
+  m_configObjects: {}
