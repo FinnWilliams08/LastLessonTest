@@ -17,7 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/FPS-Package/FPS-Teaching-main/FPS-Teaching/Assets/Scenes/Lvl2.unity
     guid: cf9ade6fee8ac254ea7f278b753a4416
-  - enabled: 0
+  - enabled: 1
     path: Assets/FPS-Package/FPS-Teaching-main/FPS-Teaching/Assets/Scenes/Lvl3.unity
     guid: 2a2c9fb9d50110f4cbc169175ac2fa03
   - enabled: 1
