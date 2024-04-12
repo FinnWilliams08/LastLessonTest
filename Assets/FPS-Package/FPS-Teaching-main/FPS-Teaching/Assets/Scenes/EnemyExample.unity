@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -5435,75 +5435,6 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.041877996, y: 0.022244051, z: 0.017528886}
   m_Center: {x: 0.011428359, y: -0.0011220266, z: -0.0012355576}
---- !u!1001 &793008927
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 6f3535aee51308743a12cfdd2edcb0c9, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f3535aee51308743a12cfdd2edcb0c9, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f3535aee51308743a12cfdd2edcb0c9, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f3535aee51308743a12cfdd2edcb0c9, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 15.69672
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f3535aee51308743a12cfdd2edcb0c9, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 12.874
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f3535aee51308743a12cfdd2edcb0c9, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 65.54
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f3535aee51308743a12cfdd2edcb0c9, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f3535aee51308743a12cfdd2edcb0c9, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f3535aee51308743a12cfdd2edcb0c9, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f3535aee51308743a12cfdd2edcb0c9, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f3535aee51308743a12cfdd2edcb0c9, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f3535aee51308743a12cfdd2edcb0c9, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 6f3535aee51308743a12cfdd2edcb0c9, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 6f3535aee51308743a12cfdd2edcb0c9, type: 3}
-      propertyPath: m_Name
-      value: Sketchfab_2022_01_04_11_41_45
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 6f3535aee51308743a12cfdd2edcb0c9, type: 3}
 --- !u!1 &801559111 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7639832952502613926, guid: d841e6783ec4a3141b5c09e6848f2306, type: 3}
@@ -10161,7 +10092,7 @@ MonoBehaviour:
   m_OverrideVoxelSize: 0
   m_VoxelSize: 0.16666667
   m_MinRegionArea: 2
-  m_NavMeshData: {fileID: 23800000, guid: cf53a36f5eb8cb847888d53ca4ce1371, type: 2}
+  m_NavMeshData: {fileID: 23800000, guid: edb4397a938b7de42bf5e5bf693f7b2f, type: 2}
   m_BuildHeightMesh: 0
 --- !u!4 &1535360163
 Transform:
@@ -13801,4 +13732,3 @@ SceneRoots:
   - {fileID: 364182685}
   - {fileID: 19251279}
   - {fileID: 8787152309652743762}
-  - {fileID: 793008927}
